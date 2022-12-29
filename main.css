@@ -1,9 +1,10 @@
 header {
         background-color: red;
         width: 900;
-
+        margin-left: calc(50% - 450px);
 }
 main {
-        background-color: red;
+        background-color: green;
         width: 900;
+        margin-left: calc(50% - 450px);
 }
