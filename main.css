@@ -1,12 +1,6 @@
-body {
-
-}
-
 header,
 main {
         background-color: blue;
         width: 800;
         margin-left: calc(50% - 400px);
-}
-
 }
