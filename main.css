@@ -1,8 +1,12 @@
 body { 
-        width: 800px;
-        margin-left: calc(50% - 400px)
+        margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header,
 main {
+        width: 800px; 
+         display: inline-block;
+        margin-left: calc(50% - 400px);
+        margin-bottom: 30px;
         background-color: blue;
 }
