@@ -8,8 +8,42 @@ main {
          display: inline-block;
         margin-left: calc(50% - 400px);
         margin-bottom: 30px;
-        background-color: blue;
+        background-color: red;
 }
 header {
-        margin-top: 45px;
+        margin-top: 40px;
+}
+img{
+        width: 100px;
+        height: 50px;
+        float: left;
+        object-fit: contain;
+        object-position: left; 
+}
+nav { 
+        float: right;
+        margin-top: 10px;
+}       
+a{ 
+         display: inline-block;
+        margin-left: 2em;
+        color: #A7A7A7;
+        font-size: 20px;
+        line-height: 1em;
+        text-decoration: none;
+}
+    
+a:first-child {
+        margin-left: 0;
+}
+a:hover {
+        text-decoration: underline;
+}    
+a:nth-last-child(1) {
+        color: #F6CEFF;
+        background-color: #520BEB;
+        padding: 10px;
+        text-decoration: none;
+        text-align: center;
+        border-radius: 30px;
 }
