@@ -1,6 +1,8 @@
+body { 
+        width: 800px;
+        margin-left: calc(50% - 400px)
+}
 header,
 main {
         background-color: blue;
-        width: 800;
-        margin-left: calc(50% - 400px);
 }
