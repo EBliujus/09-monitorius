@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Astronautas
+# Desktop
 
 _website design project_
 
@@ -13,9 +13,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/EBliujus/2-kosmonautas
+Site published at: https://github.com/EBliujus/09-monitorius
 
-Design: [Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
+Design: [Desktop](https://www.pinterest.com/pin/464293042846052707/)
 
 ## 🎯 Project features/goals
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/EBliujus/2-kosmonautas
+    git clone https://github.com/EBliujus/09-monitorius
     ```
 2. Install NPM packages
     ```sh
@@ -66,11 +66,11 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Evaldas: [Github](https://github.com/EBliujus)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the ISC License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
