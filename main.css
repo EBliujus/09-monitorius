@@ -8,12 +8,12 @@ main {
          display: inline-block;
         margin-left: calc(50% - 400px);
         margin-bottom: 30px;
-        background-color: red;
+        background-color: greenyellow;
 }
 header {
         margin-top: 40px;
 }
-img{
+header > img{
         width: 100px;
         height: 50px;
         float: left;
@@ -24,26 +24,52 @@ nav {
         float: right;
         margin-top: 10px;
 }       
-a{ 
+nav > a{ 
          display: inline-block;
         margin-left: 2em;
         color: #A7A7A7;
-        font-size: 20px;
+        font-size: 16px;
         line-height: 1em;
         text-decoration: none;
 }
     
-a:first-child {
+nav > a:first-child {
         margin-left: 0;
 }
-a:hover {
+nav > a:hover {
         text-decoration: underline;
 }    
-a:nth-last-child(1) {
+nav > a:last-child {
         color: #F6CEFF;
         background-color: #520BEB;
         padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
         text-decoration: none;
         text-align: center;
-        border-radius: 30px;
+        border-radius: 100px;
+}
+main {}
+
+div {
+        width: 35%;
+        float: left;
+}
+
+h1 {
+        font-size: 45px;
+        font-weight: bold;
+        color: #373447;
+}
+
+p {
+        font-size: 13px;
+}
+
+div > a {
+}
+
+img {
+        width: 60%;
+        float: right;
 }
